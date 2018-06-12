@@ -6,8 +6,8 @@ import time
 import csv
 import os
 import io
-os.chdir(r'C:\Users\jc\Desktop')
-File =open('xxx.tsv',"r")
+os.chdir(r'C:\Users\adity\Desktop\task')
+File =open('trans.tsv',"r")
 #print File.readlines()
 File1= File.readlines()
 #print File1
