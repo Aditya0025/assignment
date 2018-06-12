@@ -6,7 +6,7 @@ import time
 import csv
 import os
 import io
-os.chdir(r'C:\Users\jc\Desktop')
+os.chdir(r'C:\Users\adity\Desktop\task')
 csvFile =open('test.csv',"w")
 #csvFile =open('test.tsv',"w")
 #writer = csv.writer(csvFile,delimiter=',')
